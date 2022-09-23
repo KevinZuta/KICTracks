@@ -1,0 +1,11 @@
+C:\Users\lucia\source\repos\KICTracks\KICTracks\bin\Debug\KICTracks.exe.config
+C:\Users\lucia\source\repos\KICTracks\KICTracks\bin\Debug\KICTracks.exe
+C:\Users\lucia\source\repos\KICTracks\KICTracks\bin\Debug\KICTracks.pdb
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.Form1.resources
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.Properties.Resources.resources
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.csproj.GenerateResource.cache
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.csproj.CoreCompileInputs.cache
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.exe
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.pdb
+C:\Users\lucia\source\repos\KICTracks\KICTracks\obj\Debug\KICTracks.csproj.AssemblyReference.cache
